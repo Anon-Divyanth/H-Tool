@@ -15,3 +15,6 @@ $ cd H-Tool
 $ pip install -r requirments.txt
 
 $ python Htool.py
+
+# Note:
+Don’t use this tool for illigal purposes 
