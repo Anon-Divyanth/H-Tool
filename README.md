@@ -9,6 +9,9 @@ Another hacking tools., Thanks to my Hacker
 Friends Joyson and Prudhvi 
 # Installation 
 $ git clone https://github.com/Anon-Divyanth/H-Tool
+
 $ cd H-Tool
+
 $ pip install -r requirments.txt
+
 $ python Htool.py
