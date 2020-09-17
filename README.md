@@ -12,7 +12,7 @@ $ git clone https://github.com/Anon-Divyanth/H-Tool
 
 $ cd H-Tool
 
-$ pip install -r requirments.txt
+$ pip install -r requirements.txt
 
 $ python Htool.py
 
