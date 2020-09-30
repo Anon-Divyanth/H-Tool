@@ -1239,7 +1239,7 @@ def Phishx():
     print (os.system("mv PhishX ~"))
 # HiddenEye:
 def HiddenEye():
-    print (os.system("git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git"))
+    print (os.system("git clone https://github.com/DarkSecDevelopers/HiddenEye.git"))
     print (os.system("mv HiddenEye ~"))
 # Shellphish:
 def Shellphish():
