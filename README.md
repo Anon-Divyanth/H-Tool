@@ -16,5 +16,8 @@ Friends Joyson and Prudhvi
 
 **python Htool.py**
 
+# Feautures:
+- phishing tools = 15
+
 # Note:
 Don’t use this tool for illigal purposes 
