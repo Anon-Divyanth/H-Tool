@@ -31,8 +31,8 @@ def main():
   [5] Wifi Hacking Tools
   [6] Tracing and Tracking Tools
   [7] Exploitation Tools
-  [8] Password Attacking Tools
-  [9] Malware Tools
+  [8] Password Cracking Tools
+  [9] Virus Tools
   [10] Bombing Tools
   [11] Another Hacking Tools
   [00] Exit\n""")
