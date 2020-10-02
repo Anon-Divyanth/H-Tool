@@ -32,5 +32,7 @@ Hacking Tools. These are the list of Hacking tools
 - Bombing Tools = 11
 - Another Hacking Tools = 31
 
+**Total tools = 212**
+
 # Note:
 Don’t use this tool for illigal purposes 
