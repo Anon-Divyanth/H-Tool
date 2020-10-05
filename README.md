@@ -8,8 +8,7 @@ Password attacking,creating malwares,Bombing,
 Another hacking tools., Thanks to my Hacker 
 Friends Joyson and Prudhvi 
 
-# Image
-![Screenshot](core/screenshot.png)
+
 
 # Installation 
 **git clone https://github.com/Anon-Divyanth/H-Tool**
