@@ -8,10 +8,6 @@ Password attacking,creating malwares,Bombing,
 Another hacking tools., Thanks to my Hacker 
 Friends Joyson and Prudhvi.
 
-
-![alt text](https://github.com/Anon-Divyanth/H-Tool/blob/master/core/195C9925-DFC9-4121-B493-4437CDD57AFB.jpeg)
-
-
 # Installation 
 **git clone https://github.com/Anon-Divyanth/H-Tool**
 
@@ -20,6 +16,8 @@ Friends Joyson and Prudhvi.
 **pip install -r requirements.txt**
 
 **python Htool.py**
+# Image:
+![alt text](https://github.com/Anon-Divyanth/H-Tool/blob/master/core/195C9925-DFC9-4121-B493-4437CDD57AFB.jpeg)
 
 # Feautures:
 It contain advance and professional hacking tools For
