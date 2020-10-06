@@ -16,7 +16,7 @@ Friends Joyson and Prudhvi.
 **pip install -r requirements.txt**
 
 **python Htool.py**
-# Image:
+# Screenshot:
 ![alt text](https://github.com/Anon-Divyanth/H-Tool/blob/master/core/195C9925-DFC9-4121-B493-4437CDD57AFB.jpeg)
 
 # Feautures:
