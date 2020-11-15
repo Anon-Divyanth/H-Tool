@@ -1340,7 +1340,7 @@ def Instabrute():
     print (os.system("mv InstaBrute ~"))
 # Instainsane:
 def Instainsane():
-    print (os.system("git clone https://github.com/thelinuxchoice/instainsane"))
+    print (os.system("git clone https://github.com/umeshshinde19/instainsane"))
     print (os.system("mv instainsane ~"))
 # Instax:
 def Instax():
@@ -1716,8 +1716,7 @@ def IPCS():
     print (os.system("git clone https://github.com/kancotdiq/ipcs"))
     print (os.system("mv ipcs ~"))
 # Sayhellow:
-def Sayhellow():
-    print (os.system("git clone https://github.com/thelinuxchoice/sayhello"))
+def print (os.system("git clone https://github.com/d093w1z/sayhello"))
     print (os.system("mv sayhello ~"))
 # lockphish:
 def lockphish():
@@ -2078,4 +2077,3 @@ def Restart():
        restart_program()
      else:
        exit()
-
