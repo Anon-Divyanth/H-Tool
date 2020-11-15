@@ -1716,7 +1716,8 @@ def IPCS():
     print (os.system("git clone https://github.com/kancotdiq/ipcs"))
     print (os.system("mv ipcs ~"))
 # Sayhellow:
-def print (os.system("git clone https://github.com/d093w1z/sayhello"))
+def Sayhellow():
+    print (os.system("git clone https://github.com/d093w1z/sayhello"))
     print (os.system("mv sayhello ~"))
 # lockphish:
 def lockphish():
