@@ -1255,7 +1255,7 @@ def weeman():
     print (os.system("mv weeman ~"))
 # BlackEye:
 def BlackEye():
-    print (os.system("https://github.com/An0nUD4Y/blackeye"))
+    print (os.system("git clone https://github.com/An0nUD4Y/blackeye"))
     print (os.system("mv blackeye ~"))
 # Zphisher:
 def Zphisher():
