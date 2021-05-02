@@ -7,13 +7,13 @@ Exploitation, Password cracking, Wifi Hacking, Bombing, DDOS,
 Malwares, Some special pakages and Another Hacking tools
 
 # Installation 
-**git clone https://github.com/Anon-Divyanth/H-Tool**
-
-**cd H-Tool**
-
-**python Htool.py**
+```
+git clone https://github.com/Anon-Divyanth/H-Tool
+cd H-Tool
+python Htool.py
+```
 # Screenshot:
-![alt text](https://github.com/Anon-Divyanth/H-Tool/blob/master/core/0A02EFF0-2639-42E4-9D87-15CAAA58CFD7.jpeg)
+![alt text](https://github.com/Anon-Divyanth/H-Tool/blob/master/core/Screenshot_2021_0502_072223.png)
 # Feautures:
 It contain advance and professional hacking tools For
 For doing Advance level of Hacking., it contain 200+
