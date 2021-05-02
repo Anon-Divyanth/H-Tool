@@ -29,7 +29,7 @@ logo = """
 
 A = random.choice(colors)
 print(A+logo)
-print("\t{} >>>>>>>>>>>>> Total Tools = {}306{}{} <<<<<<<<<<<<<<{}".format(A,L,O,A,O))
+print("\t{} >>>>>>>>>>>>> Total Tools = {}308{}{} <<<<<<<<<<<<<<{}".format(A,L,O,A,O))
 print("\t\t {} Thanks to {}Prudhvi{}{} and {}Rokuro{}".format(A,L,O,A,L,O))
 sleep(0.5)
 def main():
