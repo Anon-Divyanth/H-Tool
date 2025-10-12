@@ -37,7 +37,7 @@ Hacking Tools. These are the list of Hacking tools
 
 # Thanks to 
 
-**Akhila**,**Vinay**,**Rokuro Hamasaki**,**Pratap**,**Folorunsho Muiz**,**varun**,**Prudhvi**,**yogesh**,**Raj Kumar**
+**Sriman**,**Vinay**,**varun**,**Prudhvi**
 
 # Note:
 Don’t use this tool for illigal purposes 
